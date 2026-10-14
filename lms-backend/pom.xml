@@ -55,3 +55,8 @@
     </build>
 
 </project>
+<dependency>
+         <groupId>.com.h2database</groupId>
+         <artifactid>h2</artifactId>
+                  <scope>runtime</scope>
+         </dependencency>
